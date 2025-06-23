@@ -16,6 +16,7 @@ The app is not made to be complex. It was made to show that I know how to use so
 
 - Vue
 - Tailwind CSS
+- Typescript
 
 **Backend & Services:**
 
